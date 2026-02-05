@@ -1,0 +1,5 @@
+INFO Application started
+INFO User logged in
+WARNING Low memory
+ERROR Database connection failed
+INFO Application stopped
